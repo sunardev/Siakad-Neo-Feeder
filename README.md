@@ -106,9 +106,9 @@ Saya telah menambahkan emoji untuk mewakili setiap langkah dalam proses penerima
 -  :computer: Login Operator
 -  :computer: Login NEO
 -  :arrows_counterclockwise: Sistem memungkinkan bagian akademik untuk melakukan sinkronisasi data nilai dengan sistem Neo Feeder yang digunakan untuk pengelolaan data akademik secara lebih luas.
-    1. Mahasiswa Baru
-    2. Kelas Perkulihan
-    3. Dosen Ajar
-    4. KRS Online
-    5. KHS Online
-    6. Pembimbing Akademik ( Aktivitas Mahasiswa Berdasarkan SK )
+  🔸 Mahasiswa Baru
+  🔸 Kelas Perkulihan
+  🔸 Dosen Ajar
+  🔸 KRS Online
+  🔸 KHS Online
+  🔸 Pembimbing Akademik ( Aktivitas Mahasiswa Berdasarkan SK )
