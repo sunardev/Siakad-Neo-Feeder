@@ -105,10 +105,10 @@ Saya telah menambahkan emoji untuk mewakili setiap langkah dalam proses penerima
 ### 8. Operator PDDIKTI
 -  :computer: Login Operator
 -  :computer: Login NEO
--  :arrows_counterclockwise: Sistem memungkinkan bagian akademik untuk melakukan sinkronisasi data nilai dengan sistem Neo Feeder yang digunakan untuk pengelolaan data akademik secara lebih luas =
-  - Mahasiswa Baru
-  - Kelas Perkulihan
-  - Dosen Ajar
-  - KRS Online
-  - KHS Online
-  - Pembimbing Akademik ( Aktivitas Mahasiswa Berdasarkan SK )
+-  :arrows_counterclockwise: Sistem memungkinkan bagian akademik untuk melakukan sinkronisasi data nilai dengan sistem Neo Feeder yang digunakan untuk pengelolaan data akademik secara lebih luas.
+    # Mahasiswa Baru
+    # Kelas Perkulihan
+    # Dosen Ajar
+    # KRS Online
+    # KHS Online
+    # Pembimbing Akademik ( Aktivitas Mahasiswa Berdasarkan SK )
