@@ -74,7 +74,7 @@
 ### 5. Calon Maba (Penerimaan Mahasiswa Baru)
 1. :money_with_wings: Terlebih dahulu mahasiswa melakukan pembayaran uang pendaftaran ke BAAK atau bank yang sudah ditentukan.
 2. :page_with_curl: Selanjutnya, mahasiswa mengisi formulir yang ada pada link formulir pendaftaran mahasiswa baru.
-3. :email: Setelah divalidasi, mahasiswa akan menerima bukti pendaftaran sekaligus berfungsi sebagai tanda peserta untuk mengikuti tes masuk ITB Indragiri melalui email yang diinput sebelumnya di formulir pendaftaran, dan diberikan pemberitahuan untuk mengikuti tes calon mahasiswa baru.
+3. :email: Setelah divalidasi, mahasiswa akan menerima bukti pendaftaran sekaligus berfungsi sebagai tanda peserta untuk mengikuti tes masuk melalui email yang diinput sebelumnya di formulir pendaftaran, dan diberikan pemberitahuan untuk mengikuti tes calon mahasiswa baru.
 4. :white_check_mark: Jika calon mahasiswa baru dinyatakan lulus, maka mahasiswa tersebut diwajibkan melakukan pendaftaran ulang dengan melengkapi berkas pendaftaran.
 5. :id: Kemudian, mahasiswa akan diberikan Nomor Induk Mahasiswa (NIM) dan Akun SIAKAD.
 6. :pencil2: Setelah itu, mahasiswa diwajibkan untuk mengisi KRS sesuai dengan lokal yang sudah ditentukan.
@@ -105,7 +105,7 @@ Saya telah menambahkan emoji untuk mewakili setiap langkah dalam proses penerima
 ### 8. Operator PDDIKTI
 -  :computer: Login Operator
 -  :computer: Login NEO
--  :arrows_counterclockwise: Sistem memungkinkan bagian akademik untuk melakukan sinkronisasi data nilai dengan sistem Neo Feeder yang digunakan untuk pengelolaan data akademik secara lebih luas.
+-  :arrows_counterclockwise: Sistem memungkinkan bagian akademik untuk melakukan sinkronisasi data nilai dengan sistem Neo Feeder yang digunakan untuk pengelolaan data akademik secara lebih luas =
   - Mahasiswa Baru
   - Kelas Perkulihan
   - Dosen Ajar
